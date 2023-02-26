@@ -1,7 +1,9 @@
 # **<h3 align="center">Airbnb Bookings Analysis</h1>**
 
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
-![203228331-cddcebaa-8566-434a-80a6-6681514a55b7](https://user-images.githubusercontent.com/96904369/203539899-c7f629c3-f91c-4b65-85a1-ab119589b9d0.png)
+
+
+![image](https://user-images.githubusercontent.com/76884379/221421311-5942f926-283f-485a-8389-a287fb63b2b3.png)
 
 # Business Problem
 - The objective of this capstone is to do EDA on the given dataset and find out the insights from it.
@@ -22,4 +24,3 @@ Dealing with a huge data set is a time-consuming part. In this dataset, we are p
 # Conclusion
 After the analysis, we concluded that this analysis will help the company to decide in which areas they are leading or lagging, where they need improvisation, and what necessary changes they need for better functionality of their business. As the analysis was done based on price category, different locations, hosts, and room types, the company will be able to decide which type of room is preferred in what area and strategize accordingly for the betterment of their customer satisfaction and business growth.
 
-# Execution Instruction
